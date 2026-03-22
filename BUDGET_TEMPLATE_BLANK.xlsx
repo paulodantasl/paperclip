@@ -1,0 +1,45 @@
+PROJECT BUDGET BREAKDOWN
+
+Project: [AUTO-FILL FROM JOB THREAD]
+Client: [AUTO-FILL FROM JOB THREAD]
+Original Estimate: $[AUTO-FILL]
+Date Created: [TODAY]
+
+═══════════════════════════════════════
+
+LABOR COSTS
+├─ Site Prep Crew: $[60% × 5 days / 73 days]
+├─ Foundation Crew: $[60% × 14 days / 73 days]
+├─ Framing Crew: $[60% × 21 days / 73 days]
+├─ MEP Crew: $[60% × 14 days / 73 days]
+├─ Finish Crew: $[60% × 14 days / 73 days]
+├─ Inspection/Closeout: $[60% × 5 days / 73 days]
+├─ Safety Officer / Site Manager: $[TBD]
+└─ Subtotal Labor: $[AUTO-CALC - Target 60% of budget]
+
+MATERIAL COSTS
+├─ Foundation Materials: $[TBD]
+├─ Framing Materials: $[TBD]
+├─ MEP Materials & Equipment: $[TBD]
+├─ Finish Materials: $[TBD]
+├─ Equipment Rental: $[TBD]
+└─ Subtotal Materials: $[AUTO-CALC - Target 35% of budget]
+
+OTHER COSTS
+├─ Permits & Inspections: $[TBD]
+├─ Insurance & Bonds: $[TBD]
+├─ Contingency (5%): $[AUTO-CALC]
+└─ Subtotal Other: $[AUTO-CALC - Target 5% of budget]
+
+═══════════════════════════════════════
+TOTAL PROJECT BUDGET: $[AUTO-CALC]
+Original Estimate: $[AUTO-FILL]
+Variance: $[AUTO-CALC]
+Status: [Ready for Approval / Needs Review]
+
+═══════════════════════════════════════
+NOTES:
+- Labor breakdown allocated across project phases (73 total days)
+- Review percentages and adjust if needed before approval
+- Update contingency if scope changes occur
+- Keep material cost placeholders updated as actual costs are known
